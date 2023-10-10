@@ -1,1 +1,1 @@
-# The_sidcup_family_golf_clone
+this website is not responsive
